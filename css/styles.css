@@ -1,0 +1,122 @@
+body {
+  font-family: "Just Another Hand", cursive;
+  background-color: #242e6b;
+  width: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* TODO: Styling by html element: add styling for h1 and h2 */
+h1,
+h2 {
+  font-weight: 600;
+  font-size: 150px;
+}
+
+/* TODO: Styling by id: add styling for #title */
+#title {
+  color: #fc8c93;
+  line-height: 50px;
+}
+
+#question {
+  display: inline;
+  color: #ffffff;
+}
+
+/* TODO: Styling by id: add styling for canvas */
+#my-canvas {
+  vertical-align: top;
+  display: inline;
+  border: 5px solid #ffffff;
+  border-radius: 5%;
+  margin-left: 25px;
+  cursor: crosshair;
+}
+
+.container {
+  text-align: center;
+  margin: 50px auto;
+}
+
+.btn {
+  margin: 10px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  border-width: 0;
+  cursor: pointer;
+  color: #242e6b;
+  line-height: 70px;
+  font-family: "Just Another Hand", cursive;
+  font-size: 70px;
+  letter-spacing: 3px;
+  padding: 13px 32px 0 32px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* TODO: Styling by class: add Styling for button on hover */
+.btn:hover {
+  background-color: #242e6b;
+  color: white;
+}
+
+/* NEW STYLES */
+.list-tags {
+  background-color: #0c0f2c;
+  color: #ffffff;
+  list-style: none;
+  display: flex;
+  padding: 15px;
+  margin: 0px;
+  margin: 0px;
+  margin-top: -10px;
+  margin-left: -10px;
+  cursor: pointer;
+}
+.list-elements:hover{
+  color: cyan;
+  background-color: #0c0f2c;
+  transition: 0.5s;
+  border: 1px solid cyan;
+}
+
+.list-elements {
+  padding: 10px;
+  padding-bottom: 20px;
+  color: #0c0f2c;
+  background-color: cyan;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-weight: 600;
+  border: 1px solid #0c0f2c;
+  width: 106px;
+  text-align: center;
+  height: 10px;
+  border-radius: 25px;
+}
+
+/* Mathkid styling */
+.mathkid {
+  width: 30%;
+  padding: 5px;
+}
+
+.just {
+  justify-content: center;
+  text-align: center;
+}
+
+.new-math-kid{
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgba(255, 255, 1, 0.842);
+  font-weight: 900;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.new-math-kid:hover{
+  color: yellow;
+}
