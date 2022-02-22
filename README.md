@@ -9,4 +9,5 @@ The Aim of the Project is to Help Kids in Maths recognising their Hand Written d
   <li> Numpy </li>
   <li> Pandas </li>
   <li> OpenCV </li>
+  <li> Html
  </ul>
