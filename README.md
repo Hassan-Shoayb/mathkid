@@ -5,6 +5,7 @@ The Aim of the Project is to Help Kids in Maths recognising their Hand Written d
 <ul>
   <li> Tensorflow 2.0 </li>
   <li> keras
+  <li> Tensorboard </li>
   <li> Scikit-learn
   <li> Numpy </li>
   <li> Pandas </li>
