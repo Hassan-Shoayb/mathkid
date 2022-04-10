@@ -13,4 +13,5 @@ The Aim of the Project is to Help Kids in Maths recognising their Hand Written d
   <li> HTML </li>
   <li> CSS  </li>
   <li> JavaScript </li>
+  <li>Bootstrap</li>
  </ul>
