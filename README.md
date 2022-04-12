@@ -10,6 +10,7 @@ The Aim of the Project is to Help Kids in Maths recognising their Hand Written d
   <li> Numpy </li>
   <li> Pandas </li>
   <li> OpenCV </li>
+  <li>Seaborn</li>
   <li> HTML </li>
   <li> CSS  </li>
   <li> JavaScript </li>
