@@ -9,6 +9,7 @@ The Aim of the Project is to Help Kids in Maths recognising their Hand Written d
   <li> Scikit-learn
   <li> Numpy </li>
   <li> Pandas </li>
+  <li>Matplotlib</li>
   <li> OpenCV </li>
   <li>Seaborn</li>
   <li> HTML </li>
