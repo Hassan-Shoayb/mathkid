@@ -11,6 +11,7 @@ MathKid is a project that aims to help kids improve their math skills by recogni
 </ol>
 
 <img src="Hassan Shoayb Mathkid.gif" alt="A cool animated GIF">
+
 ### Liraries and tools: 
 <ul>
   <li> Tensorflow 2.0 </li>
