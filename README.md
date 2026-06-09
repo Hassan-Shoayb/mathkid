@@ -43,8 +43,8 @@ This project uses the **MNIST Handwritten Digits Dataset**, which contains 70,00
 
 Clone the repository:
 
-```bash 
-https://github.com/Hassan-Shoayb/mathkid.git
+```bash
+git clone https://github.com/Hassan-Shoayb//Math-kid.git
 cd Math-kid
 ```
 
